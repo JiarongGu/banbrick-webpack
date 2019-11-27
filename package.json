@@ -1,0 +1,50 @@
+{
+  "name": "brick-webpack",
+  "version": "0.0.1",
+  "description": "webpack toolkit for react",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiarongGu/brick-script.git"
+  },
+  "keywords": [
+    "webpack",
+    "react"
+  ],
+  "author": "Jiarong Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JiarongGu/brick-webpack/issues"
+  },
+  "homepage": "https://github.com/JiarongGu/brick-webpack#readme",
+  "dependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-react": "^7.7.4",
+    "@types/memory-fs": "^0.3.2",
+    "@types/mini-css-extract-plugin": "^0.8.0",
+    "@types/webpack-dev-middleware": "^2.0.3",
+    "@types/webpack-env": "^1.14.0",
+    "autoprefixer": "^9.7.2",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-import": "^1.13.0",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^3.2.0",
+    "css-type-loader": "^1.1.2",
+    "cssnano": "^4.1.10",
+    "file-loader": "^5.0.2",
+    "html-webpack-plugin": "^3.2.0",
+    "less": "^3.10.3",
+    "less-loader": "^5.0.0",
+    "mini-css-extract-plugin": "0.8.0",
+    "postcss-loader": "^3.0.0",
+    "postcss-preset-env": "^6.7.0",
+    "style-loader": "^1.0.0",
+    "url-loader": "^2.1.0",
+    "webpack": "^4.41.2",
+    "webpack-dev-middleware": "^3.7.1",
+    "webpack-dev-server": "^3.9.0",
+    "webpack-merge": "^4.2.2",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
