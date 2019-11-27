@@ -4,7 +4,7 @@
   "description": "webpack toolkit for react",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JiarongGu/brick-script.git"
+    "url": "git+https://github.com/JiarongGu/brick-webpack.git"
   },
   "keywords": [
     "webpack",
