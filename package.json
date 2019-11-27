@@ -1,10 +1,10 @@
 {
-  "name": "brick-webpack",
+  "name": "banbrick-webpack",
   "version": "0.0.1",
   "description": "webpack toolkit for react",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JiarongGu/brick-webpack.git"
+    "url": "git+https://github.com/JiarongGu/banbrick-webpack.git"
   },
   "keywords": [
     "webpack",
@@ -13,9 +13,9 @@
   "author": "Jiarong Gu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JiarongGu/brick-webpack/issues"
+    "url": "https://github.com/JiarongGu/banbrick-webpack/issues"
   },
-  "homepage": "https://github.com/JiarongGu/brick-webpack#readme",
+  "homepage": "https://github.com/JiarongGu/banbrick-webpack#readme",
   "dependencies": {
     "@babel/cli": "^7.7.4",
     "@babel/core": "^7.7.4",
